@@ -1,7 +1,7 @@
 {
   "name": "shocklord-abyss",
   "displayName": "shock's abyss",
-  "description": "Dark Abyss theme with more syntax highliting.",
+  "description": "Immersion dark theme with more syntax highliting.",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.70.0"
