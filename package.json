@@ -1,0 +1,21 @@
+{
+  "name": "shocklord-abyss",
+  "displayName": "shock's abyss",
+  "description": "Dark Abyss theme with more syntax highliting.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shocklord's abyss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shocklord's abyss-color-theme.json"
+      }
+    ]
+  }
+}
