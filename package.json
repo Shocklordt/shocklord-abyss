@@ -1,7 +1,7 @@
 {
-  "name": "shocklord-abyss",
-  "displayName": "shock's abyss",
-  "description": "Immersion dark theme with more syntax highliting.",
+  "name": "shocklord-dark-n-grim",
+  "displayName": "shock's dark and grim",
+  "description": "Immersion theme with dim syntax highlighting",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.70.0"
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Shocklord's abyss",
+        "label": "Shocklord's Dark and Grim",
         "uiTheme": "vs-dark",
         "path": "./themes/Shocklord's abyss-color-theme.json"
       }
