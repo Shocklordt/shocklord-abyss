@@ -1,7 +1,7 @@
 {
   "name": "shocklord-dark-n-grim",
   "displayName": "shock's dark and grim",
-  "description": "Immersion theme with dim syntax highlighting",
+  "description": "Immersion theme with dim syntax highlighting. Easy on the eyes.",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.70.0"
@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shocklordt/shocklord-dark-n-grim.git"
+  },
   "contributes": {
     "themes": [
       {
